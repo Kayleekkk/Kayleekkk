@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kayleekkk
   
-- 👸 HR at Fortune500 company well known for creativenss and innovation
+- 👸 HR at Apple
 
-- 🌱 Related tasks: semantic segmentation, intance segmentation, image/video processing, 3D reconstruction, human/object/environment reconstruction
+- 🌱 Related tasks: We are hiring Computer Vision Machine Learning talents: semantic segmentation, intance segmentation, image/video processing, 3D reconstruction, human/object/environment reconstruction
 
 - 📫 How to reach me: kaylee_wang@apple.com
 
