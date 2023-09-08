@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayleekkk
-
-- Working at Fortune500 company well known for creativenss and innovation
+  
+- 👸 HR at Fortune500 company well known for creativenss and innovation
 
 - 🌱 Related tasks: semantic segmentation, intance segmentation, image/video processing, 3D reconstruction, human/object/environment reconstruction
 
